@@ -1,0 +1,84 @@
+I. Introduction
+ - By enabling users to search for available hotels, view comprehensive information, and make reservations online, the hotel reservation system 
+ seeks to simplify the booking process for users. The project's main goals are to improve hotel management's operational efficiency and user 
+ experience.
+
+II. Scope and Main Objectives
+    1. Scope
+        - The creation of a web-based hotel reservation application.
+        - Hotel search, booking management, user accounts, and payment processing are among the features that will be available.
+        - User roles include administrators, hotel managers, and patrons.
+
+    2. Main Objectives
+        - To design a user-friendly hotel search and booking interface.
+        - To put in place a strong backend system to safely manage payments and reservations.
+        - To guarantee that the system can be expanded and maintained for upcoming improvements.
+
+III. Project Estimations
+    1. Time Estimates
+        a. Project Duration: Approximately 1 months or more 
+        b. Key Milestones:
+            - Build plan: 1 week
+            - Build website: 2 - 3 weeks
+            - Test, Deploy and Fix bugs: 1 week
+    2. Cost Estimates:
+        - Build by hosting: 2$
+        - Some technique item and product: 2-5$
+    3. Resource Estimates:
+        - Members: 3 members
+        - IDK: Visual Studio Code
+        - Database: MongoDB
+        - Programme language: HTML, CSS, Javascript
+        - Framework: React
+        - Deployment and Communication: GitHub
+
+IV. Risk Analysis
+    1. Possible Risks
+        - Technical Difficulties: Unfamiliar technologies causing delays.
+        - Scope creep: People may ask for extra features that lengthen the timeline.
+        - Availability of Resources: Because of personal obligations, team members might not be available.
+    2. Risk Aversion Techniques
+        - Frequent workshops and training on the technologies in use.
+        - A well-defined scope and change management procedure.
+        - Clear communication regarding workload management and personal obligations.
+
+V. Staff Organization
+    1. Designer: Do Le Quoc Vu
+    2. Frontend Developer: Nguyen Ngoc Gia Huy
+    3. Backend Developer: Le Hai
+    4. Testing and Deploy: integration by 3 members
+
+VI. Tracking and Control Techniques
+    1. Iterative development using the Agile.
+    2. Task assignment and tracking through the use of project management tools (Jira) 
+    3. Use GitHub to deploy and manage project 
+
+VII. Project Schedule
+    1. Build plan
+        - Build ideas
+        - Divide the format of website
+        - Setup the environment
+        - Setup GitHub
+        - Assembling and discuss the way to implement
+        - Write and Draw the design and idea for build the backend design
+    2. Build website
+        - Build the Frontend ( design, function, fix bugs, ...)
+        - Build the backend ( build api , based on frontend to build function on backend)
+        - Setup information on Database
+        - Optimize the code
+        - Combine Fe and Be to FullStack
+    3.  Test, Deploy and Fix bugs:
+        - Testing, fix bugs
+        - Check errors design and fix
+        - Deploy the website
+VIII. Quality Function Deployment (QFD)
+    1. User Requirements:
+    	•	Easy hotel search and booking process.
+    	•	Secure payment options.
+    	•	Account management features.
+	2. System Requirements:
+    	•	Database for user and hotel information.
+    	•	API for communication between frontend and backend.
+    	•	Responsive design for mobile and desktop users.
+
+
